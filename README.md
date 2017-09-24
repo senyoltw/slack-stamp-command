@@ -25,3 +25,6 @@ slackの絵文字を大きくするやつです
   10. lamdaのエンドポイントURLをメモってslackのコマンドのURLに貼り付け。
   
   11. あとは好きなチャンネルで絵文字が大きくなるはず。おわり。
+
+参考
+http://dev.classmethod.jp/cloud/aws/slack-integration-blueprint-for-aws-lambda/
